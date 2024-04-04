@@ -2,7 +2,7 @@ const  myArray = [1,2,3,4,5]
 const  arrayResult = (myArray[0] + myArray[1] + myArray[2] + myArray[3] + myArray[4]) /5;
 console.log(arrayResult)
 
-
+ // მეორე დავალება ცოტა გაურკვეველი იყო არ ვიცი მოგნი ასე უნდოდა :)
 const  myArray2 =[
     {
         name: "apple",
